@@ -1,4 +1,4 @@
-#while loop, (if,if..else,if...elif,) Nested if
+##while loop, For loop, (if,if..else,if...elif,) Nested if
 
 # x=0
 # while x < 100:
@@ -28,6 +28,20 @@
 #   if i == 3:
 #     continue
 #   print(i)
+
+# fruits=["apple","banana","cherry"]
+# for i in fruits:
+#     if i == "banana":
+#         continue
+#     print(i)
+
+for i in range(6):
+    print(i)
+
+for i in range(1,20,2):
+    print(i)
+
+
 
 #if....
 # a = 33
