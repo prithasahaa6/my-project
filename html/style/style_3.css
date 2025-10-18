@@ -19,5 +19,15 @@
     text-decoration: none;
 }
 .navbar li a:hover{
-    background-color: rgb(12, 12, 12);
+    background-color: rgb(227, 204, 204);
+    color:rgb(150, 33, 33)
+}
+.navbar ul ul{
+    display:none;
+    position: absolute;
+    top:48px;
+    left: 0;
+    background-color:rgb(227, 207, 207) ;
+    border-radius: o o 4px 4px;
+    min-width:160px;
 }
